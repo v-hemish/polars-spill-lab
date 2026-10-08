@@ -1,0 +1,8 @@
+{
+  "label": "v2-small-r1",
+  "polars": "2.0.0",
+  "completed": true,
+  "seconds": 5.54,
+  "peak_process_rss_mib": 898.9,
+  "sampled_peak_spill_mib": 456.0
+}

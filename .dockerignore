@@ -1,0 +1,6 @@
+.git
+data
+spill
+results
+__pycache__
+.venv
